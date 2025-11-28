@@ -1,2 +1,3 @@
 # First-demo
-This is my first Repoository.
+This is my first Git Repoository.
+Author-Shrabani Saha
